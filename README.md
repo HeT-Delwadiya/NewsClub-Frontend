@@ -1,7 +1,7 @@
 # NewsClub-Frontend
  A news website which gets news from inshorts news api.
 
-## Description
+## Description 
 
 A news website build using React for frontend, Node.js and Express.js for backend. It fetches news from [inshorts news api](https://www.npmjs.com/package/inshorts-news-api). News of multiple categories are available. IIt has two language options for news which are English and Hindi
 
