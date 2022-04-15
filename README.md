@@ -1,5 +1,5 @@
 # NewsClub-Frontend
- A news website which gets news from inshorts news api.
+ A news website which fetches news from inshorts news api.
 
 ## Description 
 
