@@ -16,7 +16,7 @@ A news website build using React for frontend, Node.js and Express.js for backen
 
   * I have used inshort's news API to get news from inshorts website. 
 
-## Install
+## Install 
 
 Some basic Git commands are:
 
